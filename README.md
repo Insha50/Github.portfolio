@@ -31,7 +31,6 @@ I'm **Insha**, a B.Tech graduate in Electronics and Communication Engineering an
 
 ## 🏆 Certifications & Extracurriculars
 - **CAD Modelling and 3D Printing** - AICTE IDEA Lab
-- **Analog Design Flow Using Cadence**
 - **National Space Day Celebration** - AICTE Auditorium, New Delhi
 
 ---
