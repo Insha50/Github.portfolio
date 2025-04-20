@@ -30,6 +30,7 @@ I'm **Insha**, a B.Tech graduate in Electronics and Communication Engineering an
 ---
 
 ## 🏆 Certifications & Extracurriculars
+- **Secured 2nd Rank at Institute level in AKTU.**
 - **CAD Modelling and 3D Printing** - AICTE IDEA Lab
 
 ---
