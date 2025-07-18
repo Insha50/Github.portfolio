@@ -6,7 +6,7 @@
 I'm **Insha**, a B.Tech graduate in Electronics and Communication Engineering and a Python Developer with a passion for AI/ML, remote sensing, and image processing. I love solving problems through code and exploring new technologies.
 
 - 🌱 I’m currently learning: AI/ML and Remote Sensing
-- 🔭 I’m working on: Crop Health Monitoring System
+- 🔭 I’m working on: Crop Classification Using Remote Sensing
 - 📫 How to reach me: [Email](mailto:insha.khan.ece.2021@miet.ac.in) | [LinkedIn](https://www.linkedin.com/in/insha-khan-b6120b278)
 
 ---
