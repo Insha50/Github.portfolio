@@ -1,4 +1,4 @@
-# Insha Khan
+# Insha 
 
 B.Tech in Electronics and Communication Engineering  
 AI/ML Engineer
@@ -7,7 +7,7 @@ AI/ML Engineer
 
 ## About Me
 
-I am a Python Developer with a background in Electronics and Communication Engineering.  
+I am a AI/ML Engineer with a background in Electronics and Communication Engineering.  
 I work with machine learning, data analysis, and image processing.  
 I like building complete pipelines: from raw data to a working model.
 
@@ -70,19 +70,19 @@ I am currently focusing on:
 - Teamwork  
 
 ---
-## 🔗 Coding Profiles
+##  Coding Profiles
 - [(https://www.codechef.com/users/insha90)]
 - [(https://leetcode.com/u/Insha90/)]
 - [(https://www.hackerrank.com/profile/insha_khan_ece_1)]
 
 ---
 
-## 🏆 Certifications & Extracurriculars
+##  Certifications & Extracurriculars
 - **Secured 2nd Rank at Institute level in AKTU.**
 - **CAD Modelling and 3D Printing** - AICTE IDEA Lab
 
 ---
 
-## 📞 Contact
+##  Contact
 - [LinkedIn](https://www.linkedin.com/in/insha-khan-b6120b278)
 - [Email](mailto:insha.khan.ece.2021@miet.ac.in)
