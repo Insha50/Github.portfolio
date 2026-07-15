@@ -1,88 +1,79 @@
-# Insha 
+# Insha Mirza
 
-B.Tech in Electronics and Communication Engineering  
-AI/ML Engineer
-
+AI/ML Engineer | Noida, India
 ---
 
 ## About Me
 
-I am a AI/ML Engineer with a background in Electronics and Communication Engineering.  
-I work with machine learning, data analysis, and image processing.  
-I like building complete pipelines: from raw data to a working model.
+AI/ML Engineer with 1 year of hands-on experience building end-to-end machine learning pipelines for geospatial and satellite imagery applications.
 
-I am currently focusing on:
-- Machine Learning and Model Building  
-- Remote Sensing and Image Analysis  
-- End-to-end ML projects
+I enjoy working on the complete ML lifecycle from raw data collection and preprocessing to model training, evaluation, and deployment. My background in Electronics and Communication Engineering gives me a strong foundation in signal processing and remote sensing.
+
+Currently expanding into:
+- NLP and Transformer architectures (BERT, GPT)
+- Generative AI and LLMs
+- FastAPI-based model deployment
+- AWS Cloud (S3, EC2)
+
+---
+
+## Experience
+
+AI/ML Engineer
+Excel Geomatics Pvt. Ltd., Noida | Aug 2025 - Present
+
+- Built end-to-end ML pipeline for large-scale crop classification using satellite imagery and Python
+- Processed geospatial datasets using Rasterio, NumPy, and Pandas
+- Used phenological curves based on NDVI vegetation indices to analyze crop growth patterns across different regions
+- Improved model accuracy through feature importance analysis and removal of redundant features
+- Deployed model using FastAPI as a REST API
 
 ---
 
-## Interests
-
-- Machine Learning  
-- Image Processing  
-- Remote Sensing  
-- Data Analysis  
-
----
 
 ## Skills
 
-### Programming
+Languages: Python, C, SQL
 
-- Python  
-- C  
+Machine Learning: Supervised Learning, Classification, Regression, Feature Engineering, Model Evaluation, End-to-End ML Pipelines
 
-### Machine Learning
+Deep Learning: CNNs, TensorFlow (Basics), Transformer Architecture (Encoder-Decoder, Attention Mechanism)
 
-- Supervised Learning  
-- Classification and Regression  
-- Feature Engineering  
-- Model Evaluation  
-- End-to-End ML Pipelines  
+NLP (Learning): Tokenization, Word Embeddings, Attention Mechanism, BERT, GPT
 
-### Tools and Libraries
+Libraries: NumPy, Pandas, scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, Rasterio, Matplotlib
 
-- NumPy  
-- Pandas  
-- scikit-learn  
-- XGBoost  
-- LightGBM  
-- CatBoost  
-- OpenCV  
-- Rasterio  
+Backend: FastAPI (Routes, Endpoints)
 
-### Data Handling
+Generative AI (Learning): LLMs, Prompt Engineering, BERT and GPT Architecture
 
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Dataset Preparation  
+Geospatial and Remote Sensing: GIS, Satellite Image Processing, Rasterio, NDVI
 
-### Database
+Cloud: AWS S3, EC2 (Basics)
 
-- MySQL  
+Database: MySQL
 
-### Soft Skills
+Tools: VS Code, Jupyter Notebook, Git, GitHub, Google Colab
 
-- Problem-Solving  
-- Time Management  
-- Teamwork  
-
----
-##  Coding Profiles
-- [(https://www.codechef.com/users/insha90)]
-- [(https://leetcode.com/u/Insha90/)]
-- [(https://www.hackerrank.com/profile/insha_khan_ece_1)]
+Soft Skills: Problem Solving, Time Management, Teamwork, Adaptability
 
 ---
 
-##  Certifications & Extracurriculars
-- **Secured 2nd Rank at Institute level in AKTU.**
-- **CAD Modelling and 3D Printing** - AICTE IDEA Lab
+## Certifications and Courses
+
+- AWS Cloud Practitioner Essentials - AWS Skill Builder (Course Completed)
+- Machine Learning on AWS SageMaker - AWS Skill Builder (Course Completed)
 
 ---
 
-##  Contact
-- [LinkedIn](https://www.linkedin.com/in/insha-khan-b6120b278)
-- [Email](mailto:insha.khan.ece.2021@miet.ac.in)
+## Education
+
+Bachelor of Technology in Electronics and Communication Engineering
+Meerut Institute of Engineering and Technology, Meerut | 2021-2025 | CGPA: 8.46
+
+---
+
+## Achievements
+
+- Secured 2nd Rank at institute level in AKTU examination
+- Attended National Space Day Celebration at AICTE Auditorium, New Delhi featuring Dr. Sreedhara Panicker Somanath (ISRO Chief), Aug 2024
